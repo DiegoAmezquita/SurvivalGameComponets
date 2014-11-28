@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="60" height="60" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="pokemon" tilewidth="16" tileheight="16" spacing="2" margin="1">
+  <image source="pokemon.png" width="1800" height="1800"/>
+  <tile id="1">
+   <properties>
+    <property name="tree" value="true"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="tree" value="true"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="tree" value="true"/>
+   </properties>
+  </tile>
+  <tile id="101">
+   <properties>
+    <property name="tree" value="true"/>
+   </properties>
+  </tile>
+  <tile id="102">
+   <properties>
+    <property name="obstacle" value="true"/>
+    <property name="tree" value="true"/>
+   </properties>
+  </tile>
+  <tile id="103">
+   <properties>
+    <property name="tree" value="true"/>
+   </properties>
+  </tile>
+  <tile id="201">
+   <properties>
+    <property name="tree" value="true"/>
+   </properties>
+  </tile>
+  <tile id="202">
+   <properties>
+    <property name="tree" value="true"/>
+   </properties>
+  </tile>
+  <tile id="203">
+   <properties>
+    <property name="tree" value="true"/>
+   </properties>
+  </tile>
+  <tile id="1213">
+   <properties>
+    <property name="tree" value="true"/>
+   </properties>
+  </tile>
+  <tile id="1214">
+   <properties>
+    <property name="tree" value="true"/>
+   </properties>
+  </tile>
+  <tile id="1313">
+   <properties>
+    <property name="obstacle" value="true"/>
+    <property name="tree" value="true"/>
+   </properties>
+  </tile>
+  <tile id="1314">
+   <properties>
+    <property name="obstacle" value="true"/>
+    <property name="tree" value="true"/>
+   </properties>
+  </tile>
+  <tile id="1413">
+   <properties>
+    <property name="tree" value="true"/>
+   </properties>
+  </tile>
+  <tile id="1414">
+   <properties>
+    <property name="tree" value="true"/>
+   </properties>
+  </tile>
+  <tile id="2009">
+   <properties>
+    <property name="water" value="true"/>
+   </properties>
+  </tile>
+  <tile id="2010">
+   <properties>
+    <property name="water" value="true"/>
+   </properties>
+  </tile>
+  <tile id="2409">
+   <properties>
+    <property name="water" value="true"/>
+   </properties>
+  </tile>
+  <tile id="2414">
+   <properties>
+    <property name="shell" value="true"/>
+   </properties>
+  </tile>
+  <tile id="2721">
+   <properties>
+    <property name="PlayerSpawn" value="true"/>
+   </properties>
+  </tile>
+  <tile id="2749">
+   <properties>
+    <property name="EnemySpawn" value="true"/>
+   </properties>
+  </tile>
+  <tile id="3107">
+   <properties>
+    <property name="obstacle" value="true"/>
+    <property name="wall" value="true"/>
+   </properties>
+  </tile>
+  <tile id="3108">
+   <properties>
+    <property name="obstacle" value="true"/>
+    <property name="wall" value="true"/>
+   </properties>
+  </tile>
+  <tile id="3109">
+   <properties>
+    <property name="obstacle" value="true"/>
+    <property name="wall" value="true"/>
+   </properties>
+  </tile>
+  <tile id="3207">
+   <properties>
+    <property name="obstacle" value="true"/>
+    <property name="wall" value="true"/>
+   </properties>
+  </tile>
+  <tile id="3209">
+   <properties>
+    <property name="obstacle" value="true"/>
+    <property name="wall" value="true"/>
+   </properties>
+  </tile>
+  <tile id="3307">
+   <properties>
+    <property name="obstacle" value="true"/>
+    <property name="wall" value="true"/>
+   </properties>
+  </tile>
+  <tile id="3308">
+   <properties>
+    <property name="obstacle" value="true"/>
+    <property name="wall" value="true"/>
+   </properties>
+  </tile>
+  <tile id="3309">
+   <properties>
+    <property name="obstacle" value="true"/>
+    <property name="wall" value="true"/>
+   </properties>
+  </tile>
+  <tile id="3655">
+   <properties>
+    <property name="obstacle" value="true"/>
+   </properties>
+  </tile>
+  <tile id="3656">
+   <properties>
+    <property name="obstacle" value="true"/>
+   </properties>
+  </tile>
+  <tile id="3657">
+   <properties>
+    <property name="obstacle" value="true"/>
+   </properties>
+  </tile>
+  <tile id="3755">
+   <properties>
+    <property name="obstacle" value="true"/>
+   </properties>
+  </tile>
+  <tile id="3756">
+   <properties>
+    <property name="obstacle" value="true"/>
+   </properties>
+  </tile>
+  <tile id="3757">
+   <properties>
+    <property name="obstacle" value="true"/>
+   </properties>
+  </tile>
+  <tile id="3855">
+   <properties>
+    <property name="obstacle" value="true"/>
+   </properties>
+  </tile>
+  <tile id="3856">
+   <properties>
+    <property name="obstacle" value="true"/>
+   </properties>
+  </tile>
+  <tile id="3857">
+   <properties>
+    <property name="obstacle" value="true"/>
+   </properties>
+  </tile>
+  <tile id="4403">
+   <properties>
+    <property name="obstacle" value="true"/>
+   </properties>
+  </tile>
+  <tile id="4604">
+   <properties>
+    <property name="eyeTrepod" value="true"/>
+   </properties>
+  </tile>
+  <tile id="4813">
+   <properties>
+    <property name="weapon" value="true"/>
+   </properties>
+  </tile>
+  <tile id="5666">
+   <properties>
+    <property name="house" value="true"/>
+   </properties>
+  </tile>
+  <tile id="5667">
+   <properties>
+    <property name="house" value="true"/>
+   </properties>
+  </tile>
+  <tile id="5668">
+   <properties>
+    <property name="house" value="true"/>
+   </properties>
+  </tile>
+  <tile id="5669">
+   <properties>
+    <property name="house" value="true"/>
+   </properties>
+  </tile>
+  <tile id="5670">
+   <properties>
+    <property name="house" value="true"/>
+   </properties>
+  </tile>
+  <tile id="5766">
+   <properties>
+    <property name="house" value="true"/>
+   </properties>
+  </tile>
+  <tile id="5770">
+   <properties>
+    <property name="house" value="true"/>
+   </properties>
+  </tile>
+  <tile id="5866">
+   <properties>
+    <property name="house" value="true"/>
+   </properties>
+  </tile>
+  <tile id="5870">
+   <properties>
+    <property name="house" value="true"/>
+   </properties>
+  </tile>
+  <tile id="5966">
+   <properties>
+    <property name="house" value="true"/>
+   </properties>
+  </tile>
+  <tile id="5970">
+   <properties>
+    <property name="house" value="true"/>
+   </properties>
+  </tile>
+  <tile id="6066">
+   <properties>
+    <property name="house" value="true"/>
+   </properties>
+  </tile>
+  <tile id="6067">
+   <properties>
+    <property name="door" value="false"/>
+   </properties>
+  </tile>
+  <tile id="6068">
+   <properties>
+    <property name="house" value="true"/>
+   </properties>
+  </tile>
+  <tile id="6069">
+   <properties>
+    <property name="house" value="true"/>
+   </properties>
+  </tile>
+  <tile id="6070">
+   <properties>
+    <property name="house" value="true"/>
+   </properties>
+  </tile>
+  <tile id="6737">
+   <properties>
+    <property name="house" value="true"/>
+   </properties>
+  </tile>
+  <tile id="6738">
+   <properties>
+    <property name="house" value="true"/>
+   </properties>
+  </tile>
+  <tile id="6739">
+   <properties>
+    <property name="house" value="true"/>
+   </properties>
+  </tile>
+  <tile id="6740">
+   <properties>
+    <property name="house" value="true"/>
+   </properties>
+  </tile>
+  <tile id="6837">
+   <properties>
+    <property name="house" value="true"/>
+   </properties>
+  </tile>
+  <tile id="6840">
+   <properties>
+    <property name="house" value="true"/>
+   </properties>
+  </tile>
+  <tile id="6937">
+   <properties>
+    <property name="house" value="true"/>
+   </properties>
+  </tile>
+  <tile id="6940">
+   <properties>
+    <property name="house" value="true"/>
+   </properties>
+  </tile>
+  <tile id="7037">
+   <properties>
+    <property name="house" value="true"/>
+   </properties>
+  </tile>
+  <tile id="7040">
+   <properties>
+    <property name="house" value="true"/>
+   </properties>
+  </tile>
+  <tile id="7137">
+   <properties>
+    <property name="house" value="true"/>
+   </properties>
+  </tile>
+  <tile id="7138">
+   <properties>
+    <property name="door" value="false"/>
+   </properties>
+  </tile>
+  <tile id="7139">
+   <properties>
+    <property name="house" value="true"/>
+   </properties>
+  </tile>
+  <tile id="7140">
+   <properties>
+    <property name="house" value="true"/>
+   </properties>
+  </tile>
+  <tile id="9900">
+   <properties>
+    <property name="door" value="true"/>
+    <property name="houseOne" value=""/>
+   </properties>
+  </tile>
+  <tile id="9901">
+   <properties>
+    <property name="door" value="true"/>
+    <property name="houseTwo" value=""/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Capa de Patrones 1" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztmr0OgzAMhNmQUDeeum/dBSQUFSVO4px/bviWSkl8Pgcb0XPftpMQQggJxHGBjuOORVPj7P1H92tdLzlnps5j78vdaAySvESoXY06IIS0keVeafXBf2egtSLyKvUgY57QMRCSkZa7F+m5FEED9cbAkjcr7rclvas0RyRSP2jVio4jkqfonKLORuu2ROb3Xa98P3XQMXokW/3P/A6F1uIxb17IpDeTVgt6s80d2fRGpmfO8jSjlXUqjfmp04PeEX9LT63M5FrPmpoelOY3vSN5kNZBea729/y333ve62/fJGufa1b42/Nft1qetOtitseIOQLdt1Bzk8feZdXrkT01689CryaErOcHvnaArw==
+  </data>
+ </layer>
+ <layer name="terrainObstacles" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt1bENwjAQQNEbwIWzA2QCZoMVUGaFzAAdpAAsJxJy/J50haUr7leOAAAAAAAAAAC2dkgRxy8zpn9fuK3rj55Jb9P0Lu2t9/bsub/NOUdc8us9r+w9DWWzFyUtetult26nFXrrdlrRY29P/y8AAPDZAwLyF2g=
+  </data>
+ </layer>
+ <layer name="buildings" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt2EdSHEEQQNG8BMxM94BAeBDHwIgN3t4FCSPhkYCr4L07CXaDt2v+sll3Z2QFkT/ibWrTnRFTXVEj4t0VRO7xgEc84blgt57ssETkCMc4wWlJ+nm7I5Ee9KIP/RiI7NaTVZWKVKMGtagrTT/vOs/YwCa2sI2dyG492TTzzWAWc5jPYN5CLBIhRhFlKI/t1pPdMN8t7nCPhwzmHeUZv/AbYxjHRGy3nqwzJ9KFbvSgN5d+3jOecY4LXOIK17HderJV5lvDOjawmcG8LUWRVrShHT/RUbRbT5bLi+RRQIQ4n35ez/M8zwshjTtIyGncQUJO4w4Schp3kCzS2mcad5As0tpnGneQLNLaZ6HeQULdZ1qFus+0CnWfaRXqPvM8z/M8z7PI/yOyfiPd/D8i6zfSze+u1m/0uXp+bw1oRBN+oDnFbzD0u+sCsy3iH/5jCctY+aL77pG5nvCMF7ziDe/G82qd433sr34MYBBDGMaI8b7TOse3mGsbO9jFHvZxYDyv1jle5HtShnJ8QwUq8d34O6N9jk8w3yT+4C+mjOf1c9z6jXQL/Rz3PM/zPM/zvnYfHn8iNA==
+  </data>
+ </layer>
+ <layer name="vehicles" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztz9sRQEAURMGbwK5HVIgVUSEONwpb6K46/zMRAAAAAAAA33KUiDO7Suslz5hqxJwttfWSZ6z5c8v2n/ztu4ghG7vWSwAAAAAAAIC3uQG5lgZt
+  </data>
+ </layer>
+ <layer name="trees" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztmzEOAjEMBC24fAT+BrwEnkQH/cGjcHS6Jn0SNLsjWXbnjLLp7taI+GR9s1aBWYnnMvsEY7EvG/uysS8b+7JR9X1lfy/zekuvPbvvqUScy7ze0mvP7nvP+VHm9ZZee1Tfrwr2ZWNfNvZlY1829mVjXzb2ZWNfNvZlY1821VdJufreZh9iINVX6Rsd55mN88zGeWbjPLNxntk4z2ycZzbOMxvFPB+yH2O7Z4X5knWN7Z4V5n/4x23k/AMXqPdu
+  </data>
+ </layer>
+ <layer name="trees2" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt2GEKgjAcQPE/2Vk6mnW5Okh5qDZEHPWhJsjc4/1gMPKLY6+JDhFxDrZTGkPM67ymcWt7O7sbY13nK42p7e3s7hnrOpd9JrNntn97vl+O9fvi8eP6J3tm83xms2c2e2azZzZ7ZrPnb7XvIEdmz2w9n89b/mf2zNZzz1vYM5s9s9kzmz2z2TObPbO16rnVNyJ7ZvN8ZrNnNnvuS+1z3J7Zeu+5lj2z2TObPbOVPWflftPnWbnf9HlW7jd9/gYAQ8Mv
+  </data>
+ </layer>
+ <layer name="Items" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt1zsOgCAQBUBbS72oN/VGJrYWaiT4WZeZSiwID15I6Dr4h6k/H2clJ9k467ycLVfNY/0c+gbUinSPRFoL39vrw90dKZ1PR6mlQ1xxR09a7lq07DXriZYFzugrwLui3rvLUPb/77a5jr4BAACyivo2fUpreUtl35/s+QBaswL8pBHf
+  </data>
+ </layer>
+ <objectgroup name="obstacles" width="60" height="60">
+  <object x="22" y="202" width="505" height="25"/>
+  <object x="593" y="203" width="320" height="23"/>
+  <object x="919" y="2" width="42" height="955"/>
+  <object x="1" y="914" width="917" height="44"/>
+  <object x="1" y="0" width="22" height="914"/>
+  <object x="26" y="2" width="893" height="13"/>
+  <object x="420" y="567" width="69" height="67"/>
+  <object x="708" y="695" width="69" height="68"/>
+  <object x="68" y="626" width="153" height="140"/>
+  <object x="93" y="30" width="69" height="81"/>
+  <object x="189" y="29" width="69" height="81"/>
+  <object x="709" y="39" width="69" height="70"/>
+  <object x="574" y="29" width="69" height="81"/>
+  <object x="478" y="30" width="69" height="81"/>
+  <object x="286" y="30" width="69" height="81"/>
+  <object x="382" y="30" width="69" height="81"/>
+  <object x="648" y="431" width="40" height="46"/>
+  <object x="639" y="529" width="10" height="89"/>
+  <object x="650" y="529" width="134"/>
+  <object x="421" y="567">
+   <polygon points="0,0 67,0 33,-17"/>
+  </object>
+  <object x="709" y="38">
+   <polygon points="0,0 67,0 33,-17"/>
+  </object>
+  <object x="710" y="694">
+   <polygon points="0,0 67,0 33,-17"/>
+  </object>
+  <object x="651" y="611" width="51" height="8"/>
+  <object x="736" y="610" width="46" height="11"/>
+  <object x="773" y="530" width="9" height="79"/>
+  <object x="692" y="313" width="69" height="70"/>
+  <object x="692" y="312">
+   <polygon points="0,0 67,0 33,-17"/>
+  </object>
+  <object x="85" y="264" width="69" height="70"/>
+  <object x="85" y="263">
+   <polygon points="0,0 67,0 33,-17"/>
+  </object>
+ </objectgroup>
+ <layer name="Spawns" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztzkENAAAIBKB72z+BSY2hbpCABACA67q2BwAAAAAAAAAAAAAAfDOAFwCt
+  </data>
+ </layer>
+ <layer name="ItemsToPick" width="60" height="60" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJzt1kENACAMA8AJmBj8q0PDEsIyuFPQR9M0AgAAAAAAAIATVnYnAPiP7QUAbqh8Dv+EifQWAOBdG8SRAS0=
+  </data>
+ </layer>
+</map>

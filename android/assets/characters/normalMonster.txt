@@ -1,0 +1,144 @@
+normalMonster.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+quanjiniao_attack_lan
+  rotate: false
+  xy: 164, 72
+  size: 78, 68
+  orig: 78, 68
+  offset: 0, 0
+  index: 1
+quanjiniao_attack_lan
+  rotate: false
+  xy: 2, 305
+  size: 79, 85
+  orig: 79, 85
+  offset: 0, 0
+  index: 2
+quanjiniao_attack_lan
+  rotate: false
+  xy: 169, 305
+  size: 87, 85
+  orig: 87, 85
+  offset: 0, 0
+  index: 3
+quanjiniao_attack_lan
+  rotate: false
+  xy: 83, 305
+  size: 84, 85
+  orig: 84, 85
+  offset: 0, 0
+  index: 4
+quanjiniao_attack_lan
+  rotate: false
+  xy: 83, 72
+  size: 79, 68
+  orig: 79, 68
+  offset: 0, 0
+  index: 5
+quanjiniao_attack_lan
+  rotate: false
+  xy: 2, 72
+  size: 79, 68
+  orig: 79, 68
+  offset: 0, 0
+  index: 6
+quanjiniao_attack_lan
+  rotate: false
+  xy: 74, 218
+  size: 98, 84
+  orig: 98, 84
+  offset: 0, 0
+  index: 7
+quanjiniao_attack_lan
+  rotate: false
+  xy: 275, 218
+  size: 101, 85
+  orig: 101, 85
+  offset: 0, 0
+  index: 8
+quanjiniao_attack_lan
+  rotate: false
+  xy: 174, 218
+  size: 99, 85
+  orig: 99, 85
+  offset: 0, 0
+  index: 9
+quanjiniao_attack_lan
+  rotate: false
+  xy: 229, 2
+  size: 92, 68
+  orig: 92, 68
+  offset: 0, 0
+  index: 10
+quanjiniao_dead_lan
+  rotate: false
+  xy: 312, 143
+  size: 69, 73
+  orig: 69, 73
+  offset: 0, 0
+  index: 1
+quanjiniao_dead_lan
+  rotate: false
+  xy: 2, 218
+  size: 70, 74
+  orig: 70, 74
+  offset: 0, 0
+  index: 2
+quanjiniao_dead_lan
+  rotate: false
+  xy: 2, 2
+  size: 74, 46
+  orig: 74, 46
+  offset: 0, 0
+  index: 3
+quanjiniao_dong_lan
+  rotate: false
+  xy: 151, 2
+  size: 76, 68
+  orig: 76, 68
+  offset: 0, 0
+  index: 1
+quanjiniao_run_lan
+  rotate: false
+  xy: 2, 143
+  size: 88, 69
+  orig: 88, 69
+  offset: 0, 0
+  index: 1
+quanjiniao_run_lan
+  rotate: false
+  xy: 92, 143
+  size: 71, 69
+  orig: 71, 69
+  offset: 0, 0
+  index: 2
+quanjiniao_run_lan
+  rotate: false
+  xy: 244, 72
+  size: 74, 69
+  orig: 74, 69
+  offset: 0, 0
+  index: 3
+quanjiniao_run_lan
+  rotate: false
+  xy: 78, 2
+  size: 71, 67
+  orig: 71, 67
+  offset: 0, 0
+  index: 4
+quanjiniao_run_lan
+  rotate: false
+  xy: 238, 143
+  size: 72, 70
+  orig: 72, 70
+  offset: 0, 0
+  index: 5
+quanjiniao_run_lan
+  rotate: false
+  xy: 165, 143
+  size: 71, 69
+  orig: 71, 69
+  offset: 0, 0
+  index: 6

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CivilWar</string>
+    <string name="title_activity_login">Login</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_id">139764039002</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="new_game">New Game</string>
+    <string name="options">Options</string>
+
+    <string name="bag">Bag</string>
+    <string name="lantern">Lantern</string>
+    <string name="close">Close</string>
+    <string name="use">USE</string>
+    <string name="throw_">THROW</string>
+    <string name="destroy">DESTROY</string>
+
+    <string name="hour">Hour</string>
+    <string name="life">Life</string>
+    <string name="stamina">Stamina</string>
+
+</resources>

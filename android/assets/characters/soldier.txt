@@ -1,0 +1,109 @@
+soldier.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shooting
+  rotate: false
+  xy: 2, 2
+  size: 48, 46
+  orig: 86, 58
+  offset: 8, 0
+  index: -1
+shooting
+  rotate: false
+  xy: 52, 2
+  size: 48, 46
+  orig: 86, 58
+  offset: 8, 0
+  index: -1
+shooting
+  rotate: false
+  xy: 102, 2
+  size: 68, 46
+  orig: 86, 58
+  offset: 7, 0
+  index: -1
+shooting
+  rotate: false
+  xy: 172, 2
+  size: 76, 46
+  orig: 86, 58
+  offset: 7, 0
+  index: -1
+shooting
+  rotate: false
+  xy: 250, 2
+  size: 78, 46
+  orig: 86, 58
+  offset: 7, 0
+  index: -1
+shooting
+  rotate: false
+  xy: 330, 2
+  size: 50, 46
+  orig: 86, 58
+  offset: 6, 0
+  index: -1
+shooting
+  rotate: false
+  xy: 52, 2
+  size: 48, 46
+  orig: 86, 58
+  offset: 8, 0
+  index: -1
+shooting
+  rotate: false
+  xy: 382, 2
+  size: 48, 46
+  orig: 86, 58
+  offset: 8, 0
+  index: -1
+shooting
+  rotate: false
+  xy: 432, 2
+  size: 48, 44
+  orig: 86, 58
+  offset: 8, 0
+  index: -1
+walking
+  rotate: false
+  xy: 482, 2
+  size: 48, 46
+  orig: 62, 54
+  offset: 6, 0
+  index: -1
+walking
+  rotate: false
+  xy: 532, 2
+  size: 46, 48
+  orig: 62, 54
+  offset: 7, 0
+  index: -1
+walking
+  rotate: false
+  xy: 580, 2
+  size: 46, 50
+  orig: 62, 54
+  offset: 7, 0
+  index: -1
+walking
+  rotate: false
+  xy: 628, 2
+  size: 46, 46
+  orig: 62, 54
+  offset: 7, 0
+  index: -1
+walking
+  rotate: false
+  xy: 676, 2
+  size: 48, 48
+  orig: 62, 54
+  offset: 6, 0
+  index: -1
+walking
+  rotate: false
+  xy: 726, 2
+  size: 48, 50
+  orig: 62, 54
+  offset: 6, 0
+  index: -1

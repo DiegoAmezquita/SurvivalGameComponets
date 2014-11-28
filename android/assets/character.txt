@@ -1,0 +1,116 @@
+character.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+playerOld2Down
+  rotate: false
+  xy: 2, 2
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+playerOld2Left
+  rotate: false
+  xy: 25, 2
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+playerOld2Right
+  rotate: false
+  xy: 48, 2
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+playerOld2Up
+  rotate: false
+  xy: 71, 2
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+playerOld2Down
+  rotate: false
+  xy: 94, 2
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+playerOld2Left
+  rotate: false
+  xy: 117, 2
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+playerOld2Right
+  rotate: false
+  xy: 140, 2
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+playerOld2Up
+  rotate: false
+  xy: 163, 2
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+playerOld2Down
+  rotate: false
+  xy: 186, 2
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+playerOld2Left
+  rotate: false
+  xy: 209, 2
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+playerOld2Right
+  rotate: false
+  xy: 232, 2
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+playerOld2Up
+  rotate: false
+  xy: 255, 2
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+playerOld2Down
+  rotate: false
+  xy: 278, 2
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+playerOld2Left
+  rotate: false
+  xy: 301, 2
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+playerOld2Right
+  rotate: false
+  xy: 324, 2
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+playerOld2Up
+  rotate: false
+  xy: 347, 2
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
